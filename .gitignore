@@ -1,0 +1,9 @@
+.ipynb_checkpoints/*
+model_debugging_venv/*
+trained_models/**/*.h5
+trained_models/**/*.pickle
+find/__pycache__/*
+annotations/*
+EMNLP2020-Data2Share/*
+GLoVe/*
+Yelp-AmazonProducts-CNNs/*
